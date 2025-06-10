@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+In this project we explore the pages of two painters
 
 [Link to another page](./another-page.html).
 
